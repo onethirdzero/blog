@@ -1,5 +1,6 @@
-baseURL = "http://www.example.com"
-title = "Minimo"
+baseURL = "http://onethirdzero.github.io"
+
+title = "Blog"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -20,7 +21,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = ""
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -31,7 +32,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
+holder = "Jordan Siaw"
 startYear = "2017"
 suffix = ""
 
@@ -57,16 +58,11 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
-email = "contact@example.com"
-facebook = "MunifTanjim"
-github = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
+github = "onethirdzero"
+twitter = "onethirdzero"
 
 [params.social.config]
-platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin"]
+platforms = ["github","twitter"]
 
 [taxonomies]
 author = "authors"
@@ -77,10 +73,16 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
+name = "Home"
 weight = -10
-identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+identifier = "home"
+url = "/"
+
+[[menu.main]]
+name = "About"
+weight = 0
+identifier = "about"
+url = "/about"
 
 [blackfriday]
 hrefTargetBlank = true
