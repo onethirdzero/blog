@@ -20,6 +20,8 @@ pygmentsCodefences = true
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
+enableEmoji = true
+
 [params.info]
 description = ""
 title404 = "Nothing's here!"
