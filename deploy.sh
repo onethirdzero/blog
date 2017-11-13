@@ -4,8 +4,7 @@ echo -e "\033[0;32mDeploying updated site to GitHub User Page..\033[0m"
 echo
 
 # Build the project.
-# If using a theme, replace with `hugo -t <YOURTHEME>`.
-hugo
+hugo -t minimo
 
 # Go to public/ directory.
 cd public
@@ -28,7 +27,7 @@ git push origin master
 # Come back up to the project root.
 cd ..
 
-echo "See your updated site at http://onethirdzero.github.io"
 echo
+echo "See your updated site at http://onethirdzero.github.io"
 
 exit 0
