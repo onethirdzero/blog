@@ -8,7 +8,7 @@ Farewells are hard. The difficulty comes from the fact that you’re reluctant t
 
 This is particularly important for me because I rarely found goodbyes difficult before. I’ve usually been quite accepting of most departures, because I guess the ties I built before weren’t strong enough to pull on my emotions.
 
-This shows me that I’ve grown as a person; I’m now capable of establishing relationships that matter deeply to me and - I hope - to others as well.
+This shows me that I’ve grown as a person; I’m now capable of establishing relationships that matter deeply to me and — I hope — to others as well.
 
 I like to imagine that a hard goodbye makes the day that we get to meet again much sweeter.
 It becomes something to look forward to.
