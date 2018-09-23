@@ -1,3 +1,2 @@
-[build]
-HUGO_VERSION = "0.48"
-HUGO_ENV = "production"
+[build.environment]
+HUGO_VERSION = "0.45"
