@@ -1,4 +1,4 @@
-baseURL = "https://onethirdzero.github.io"
+baseURL = "https://jordansiaw.me"
 
 title = "Jordan Siaw"
 # for smart copyright line, leave this blank and check [params.copyright]
@@ -47,24 +47,22 @@ hideSocialMenu = false
 showReadingTime = true
 noTermCloudShuffle = false
 
-[params.opengraph.facebook]
-admins = [] # array of Facebook IDs
-appID = ""
-pageID = ""
-
-[params.opengraph.twitter]
-page = "" # Twitter page username
-
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
 titleSeparator = "•"
 
+[params.widgets]
+footer = ["social_menu"]
+
 [params.social]
 github = "onethirdzero"
 twitter = "onethirdzero"
+instagram = "jordansiaw"
+email = "jordansiaw.cy@gmail.com"
+linkedin = "jordansiaw"
 
 [params.social.config]
-platforms = ["github","twitter"]
+platforms = ["github","twitter","instagram", "linkedin", "email"]
 
 [taxonomies]
 author = "authors"
