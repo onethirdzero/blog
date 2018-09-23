@@ -1,3 +1,3 @@
 # Blog
 
-Created with Hugo. Hosted on Netlify.
+Created with [Hugo](https://gohugo.io/). Hosted on [Netlify](https://www.netlify.com/).
