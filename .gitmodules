@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:onethirdzero/onethirdzero.github.io.git
 	branch = master
+[submodule "themes/minimo"]
+	path = themes/minimo
+	url = git@github.com:onethirdzero/minimo.git
+	branch = master
