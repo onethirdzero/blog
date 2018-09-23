@@ -4,6 +4,8 @@ menu = "main"
 weight = "0"
 +++
 
+## About
+
 I started this blog partly because I was intrigued by the concept of managing my own static content, and partly because I'm playing with the idea of making some of my writing public.
 
 #### On technical topics
