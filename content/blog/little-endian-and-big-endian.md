@@ -4,7 +4,7 @@ date: 2017-11-19T12:42:10-08:00
 draft: false
 ---
 
-I was watching the [prequel series](https://hero.handmade.network/episode/intro-to-c/day4) to Casey Muratori's excellent [Handmade Hero](http://handmadehero.org) last weekend and there was a small segment about endianness. I had heard about this in passing before, but [the Wikipedia article](https://en.wikipedia.org/wiki/Endianness) was too dry for me to tackle at the time.
+I was watching the [prequel series](https://hero.handmade.network/episode/intro-to-c/day4) to Casey Muratori's excellent [Handmade Hero](https://handmadehero.org) last weekend and there was a small segment about endianness. I had heard about this in passing before, but [the Wikipedia article](https://en.wikipedia.org/wiki/Endianness) was too dry for me to tackle at the time.
 
 Basically, endianness refers to how bytes for numerical values are formatted in memory.
 

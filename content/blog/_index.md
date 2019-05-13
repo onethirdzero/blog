@@ -21,4 +21,4 @@ I'm relatively new to tech, so I hope that by documenting my journey, I'll be ab
 I'm an introspective person, so it can sometimes get a little crowded in my head. Writing things down helps me refocus and refine what I'm pondering. As a good friend once said, it helps "close the chapter".
 
 
-I'm also [inspired](https://www.susanjfowler.com/) to [write](https://zachholman.com/) by a [bunch](https://blog.codinghorror.com) of [people](https://twitter.com/bitario) in [tech](http://www.paulgraham.com).
+I'm also [inspired](https://www.susanjfowler.com/) to [write](https://zachholman.com/) by a [bunch](https://blog.codinghorror.com) of [people](https://twitter.com/bitario) in [tech](https://www.paulgraham.com).

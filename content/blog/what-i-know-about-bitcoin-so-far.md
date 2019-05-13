@@ -4,7 +4,7 @@ date: 2017-12-10T21:59:53-08:00
 draft: false
 ---
 
-I had heard about Bitcoin before, but didn't come across an interesting enough discussion to pique my interest in the technology. Last weekend though, I listened to [an episode of the Giant Robots Smashing Into Other Giant Robots podcast on blockchains](http://giantrobots.fm/250) which got me into some light reading on the matter.
+I had heard about Bitcoin before, but didn't come across an interesting enough discussion to pique my interest in the technology. Last weekend though, I listened to [an episode of the Giant Robots Smashing Into Other Giant Robots podcast on blockchains](https://giantrobots.fm/250) which got me into some light reading on the matter.
 
 Then, sometime during the week, Bitcoin hit $18k. That got my attention.
 
