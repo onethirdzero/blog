@@ -6,7 +6,7 @@ weight = "1" # Lower weighted items get ordered first.
 
 Hi, I'm Jordan. I’m currently an undergrad at Simon Fraser University, majoring in Computing Science. My interests are in backend development, systems architecture and infrastructure.
 
-I've interned at [Safe Software](https://safe.com), [Hootsuite](https://hootsuite.com), and most recently at[Demonware](https://demonware.net).
+I've interned at [Safe Software](https://safe.com), [Hootsuite](https://hootsuite.com), and most recently at [Demonware](https://demonware.net).
 
 I am graduating in Dec 2019 and will be looking for full-time opportunities. If you think I'm a [good fit](resume.pdf), you can reach me [here](mailto:jordansiaw.cy@gmail.com)!
 
