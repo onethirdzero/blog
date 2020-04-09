@@ -4,8 +4,6 @@ date: 2020-04-08T21:31:20-07:00
 draft: false
 ---
 
-# Append
-
 You already have your spreadsheet set up the way you like it on desktop, but data entry on mobile is still clunky. If you find yourself only needing to add rows while on mobile, this app is for you.
 
 <img src="/static/img/append-1.jpg" alt="Screenshot 1" width="200" height="300">
