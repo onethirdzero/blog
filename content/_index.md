@@ -4,11 +4,13 @@ menu = "main" # Which menu this page should live under.
 weight = "1" # Lower weighted items get ordered first.
 +++
 
-Hi, I'm Jordan. I’m currently an undergrad at Simon Fraser University, majoring in Computing Science. My interests are in backend development, systems architecture and infrastructure.
+Hi, I'm Jordan. I’m a systems engineer at [Demonware](https://demonware.net).
 
-I've interned at [Safe Software](https://safe.com), [Hootsuite](https://hootsuite.com), and most recently at [Demonware](https://demonware.net).
+I am an alumni of Simon Fraser University, where I majored in Computing Science. My interests are in distributed systems, architecture and infrastructure.
 
-I am graduating in Dec 2019 and will be looking for full-time opportunities. If you think I'm a [good fit](resume.pdf), you can reach me [here](mailto:jordansiaw.cy@gmail.com)!
+I interned at [Safe Software](https://safe.com) and [Hootsuite](https://hootsuite.com) during my undergrad.
+
+If you'd like to get in touch, you can reach me [here](mailto:jordansiaw.cy@gmail.com)!
 
 Check out other things I do on the interwebs here:
 
