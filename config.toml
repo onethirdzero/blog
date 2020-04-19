@@ -81,3 +81,8 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+# Enable inline HTML in Markdown files.
+# https://gohugo.io/news/0.60.0-relnotes/
+[markup.goldmark.renderer]
+unsafe = true
