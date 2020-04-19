@@ -12,4 +12,10 @@ You already have your spreadsheet set up the way you like it on desktop, but dat
 
 Append is a simple front end to your spreadsheet. It knows what columns you have and will adapt its UI to that. All you need to do is fill in the generated form and hit ‘Submit’!
 
-Append is currently in development. Interested? Sign up [here](https://forms.gle/Tho5M6avj4QHBSyE8) and we'll keep you posted!
+Append is currently available on the App Store.
+
+<a href="https://apps.apple.com/ca/app/append/id1506527401" style="border-bottom-style: none">
+    <img src="/static/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.jpg" alt="Download on the App Store" width="200">
+</a>
+
+Interested in an Android version? Sign up [here](https://forms.gle/Tho5M6avj4QHBSyE8) and we'll keep you posted!
