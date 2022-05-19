@@ -1,5 +1,7 @@
 HUGO_VERSION := 0.69.0
 HUGO ?= .cache/hugo-v$(HUGO_VERSION)
+THEME := minimo
+THEME_SUBMODULE := themes/$(THEME)/theme.toml
 
 UNAME := $(shell uname -s)
 ifeq ($(UNAME),Linux)
@@ -19,16 +21,11 @@ $(HUGO):
 		| tar xvzf - -C .cache
 	mv .cache/hugo $(HUGO)
 
-# https://stackoverflow.com/a/52407662/10667555
-.PHONY: check-and-reinit-submodules
-check-and-reinit-submodules:
-	@if git submodule status | grep -q '^[-]|^[+]'; then \
-		echo "INFO: Need to reinitialize git submodules"; \
-		git submodule update --init; \
-	fi
+$(THEME_SUBMODULE):
+	git submodule update --init --recursive
 
 .PHONY: develop
-develop: $(HUGO)
+develop: $(HUGO) $(THEME_SUBMODULE)
 	$(HUGO) server --enableGitInfo --minify --forceSyncStatic --gc
 
 .PHONY: hugo-new
